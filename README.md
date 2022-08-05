@@ -55,4 +55,5 @@ python3 main.py --dataset HRSS --samples MIXED --k 100 --train_new_model
 ```
 @daniel620 fork at Aug 5th 2022
 Verification of the experiment
+Experiments of the experimental data
 ```
